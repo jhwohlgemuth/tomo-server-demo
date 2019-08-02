@@ -1,0 +1,13 @@
+{
+    "name": "Tomo Server Demo",
+    "description": "A light-weight Node.js server with security standards and testing \"baked in\"",
+    "website": "https://github.com/jhwohlgemuth/tomo-cli",
+    "repository": "https://github.com/jhwohlgemuth/tomo-server-demo",
+    "logo": "https://raw.githubusercontent.com/jhwohlgemuth/tomo-cli/master/resources/tomo-logo.png",
+    "keywords": [
+        "node",
+        "express",
+        "graphql",
+        "markdown"
+    ]
+}
