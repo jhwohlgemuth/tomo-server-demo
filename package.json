@@ -11,7 +11,6 @@
         "test": "jest .*.test.js --coverage",
         "test:ing": "npm test -- --watchAll",
         "predev": "npm run open",
-        "dev": "stmux [ \"nodemon index.js\" : \"npm run lint:ing\" ]",
         "prestart": "npm audit --production",
         "start": "node index.js",
         "open": "open-cli http://localhost:8111"
@@ -25,7 +24,6 @@
         "jest-watch-typeahead": "^0.3.1",
         "nodemon": "^1.19.1",
         "open-cli": "^5.0.0",
-        "stmux": "^1.7.1",
         "supertest": "^4.0.2",
         "watch": "^1.0.2"
     },
