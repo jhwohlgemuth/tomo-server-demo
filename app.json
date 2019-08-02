@@ -1,5 +1,5 @@
 {
-    "name": "Tomo Server Demo",
+    "name": "`tomo new server` Live Demo",
     "description": "A light-weight Node.js server with security standards and testing \"baked in\"",
     "website": "https://github.com/jhwohlgemuth/tomo-cli",
     "repository": "https://github.com/jhwohlgemuth/tomo-server-demo",
